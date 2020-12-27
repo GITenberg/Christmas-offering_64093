@@ -1,5 +1,8 @@
 _repo: Christmas-offering_64093
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64093-h/images/cover.jpg
 creator:
   author:
     agent_name: Dimond, Elizabeth, Mrs.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '52747'
     url: http://www.gutenberg.org/2009/agents/52747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64093#Christmas-offering
 gutenberg_issued: '2020-12-21'
 gutenberg_type: Text
 identifiers:
